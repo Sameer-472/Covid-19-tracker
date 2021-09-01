@@ -1,0 +1,28 @@
+.root{
+    /* background-color: rgb(129, 167, 182); */
+    margin: 0% 0%;
+}
+
+.card{
+    margin: 3% 3%  !important;
+    border-bottom: 10px solid green;    
+}
+
+.infected{
+    border-bottom: 10px solid red;
+}
+
+.deaths{
+    border-bottom: 10px solid rgb(0, 13, 34);
+}
+
+CardContent{
+    background-color: brown;
+}
+
+/* @media screen and (max-width: 800px) {
+    .root{
+        height: 500px;
+        margin: 20px;
+
+} */
